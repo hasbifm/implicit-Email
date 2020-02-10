@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImplicitIntentEmail</string>
+    <string name="tv_email_address">To :</string>
+    <string name="tv_subject_email">Subject</string>
+    <string name="tv_message">Pesan</string>
+    <string name="btn_send">kirim</string>
+</resources>
